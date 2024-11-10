@@ -4,13 +4,7 @@ This project aims to assess and compare the efficiency of lithium extraction tec
 
 
 ## Work Flow
-Step1. Data Modeling
-
-Step2. Data Integration
-
-Step3. Dashboard Creation
-
-Step4. Data Analysis 
+Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Creation  →  Step4. Data Analysis 
 
 ### STEP1. Data Modeling
 ### STEP3. Dashboard Development
