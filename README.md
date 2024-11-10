@@ -6,17 +6,16 @@ This project aims to assess and compare the efficiency of lithium extraction tec
 ## Work Flow
 Step1. Data Modeling
 
-Step2. Data Cleansing
+Step2. Data Integration
 
 Step3. Dashboard Creation
 
+Step4. Data Analysis 
+
+### STEP1. Data Modeling
+### STEP3. Dashboard Development
 ![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
-
-Step4. Finding Insights (Conducted as a personal project, not as part of work responsibilities)
-
-### STEP1. Data 
-### STEP2. Dashboard Development
-### STEP3. Data Analysis 
+### STEP4. Data Analysis 
 #### 1) Production Efficiency Analysis
 - (DLE method Comparison) The adsorption method shows a trend of increasing recovery rates as lithium concentration rises, while the ion exchange method maintains high recovery rates even in projects with lower lithium concentrations.
 - (Country Comparison) When comparing lithium deposits by region, Argentina possesses favorable conditions both quantitatively and qualitatively, with high lithium resource volumes and concentrations. In contrast, North America has relatively lower resource volumes and concentrations. However, North American projects like Clearwater and Boardwalk in Canada, which utilize the ion exchange method, have achieved high lithium recovery rates despite the low lithium concentrations.
@@ -27,7 +26,7 @@ This analysis assesses investment efficiency based on capital expenditure intens
 - (DLE method Comparison) The ion exchange method, being at an early stage of commercialization, has a higher average capital expenditure intensity ($68,237/ton) and annual OPEX ($5,502/ton) compared to the adsorption method.
 - (Country Comparison) Canada shows the highest average capital expenditure intensity ($77,081/ton), indicating substantial initial investment requirements, while the United States has a comparatively higher annual OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects exhibit low capital expenditure intensity and operational costs, offering a competitive edge in terms of cost efficiency.
 
-### STEP4. Insights and Recommendation
+## Insights and Recommendation
 
 #### key investment insights:
 1) Efficiency and Versatility: 
