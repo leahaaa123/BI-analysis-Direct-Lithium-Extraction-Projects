@@ -1,7 +1,6 @@
 ## Project Purpose
 This project aims to assess and compare the efficiency of lithium extraction technologies, particularly Direct Lithium Extraction (DLE) methods, and evaluate the investment potential across key lithium-producing regions. Through a detailed analysis of production efficiency, including recovery rates and resource conditions, and investment efficiency metrics such as CAPEX and OPEX, I provided insights on the benefits and challenges of DLE projects. The project's goal is to guide investors in understanding how DLE technology and regional factors influence cost, scalability, and productivity for lithium extraction projects.
 
-![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
 
 
 ## Work Flow
@@ -10,6 +9,8 @@ Step1. Data Modeling
 Step2. Data Cleansing
 
 Step3. Dashboard Creation
+
+![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
 
 Step4. Finding Insights (Conducted as a personal project, not as part of work responsibilities)
 
