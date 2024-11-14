@@ -11,6 +11,7 @@ Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Develo
 ![ER Diagram](https://github.com/user-attachments/assets/3a9dc848-b148-47c0-86ab-6e750868944b)
 ### STEP2. Data Integration
 ### STEP3. Dashboard Development
+[Download file](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
 ![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
 ### STEP4. Data Analysis 
 #### 1) Production Efficiency Analysis
