@@ -10,8 +10,8 @@ Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Develo
 ### STEP1. Data Modeling
 ![ER Diagram](https://github.com/user-attachments/assets/3a9dc848-b148-47c0-86ab-6e750868944b)
 ### STEP2. Data Integration
-Created database in SSMS then conducted ETL process with VIsual stuio 
-![Screenshot ssms](https://github.com/user-attachments/assets/788cb9bb-b2ef-4480-8115-ddbf78065483)
+Created database in SSMS then conducted ETL process with VIsual studio 
+Download SQL file
 
 
 ### STEP3. Dashboard Development [Download file](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
