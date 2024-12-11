@@ -43,4 +43,4 @@ Ion exchange, while promising, currently involves higher CAPEX and OPEX than ads
 3) Investment Potential: 
 Despite higher costs, DLE expands extraction options beyond high-lithium regions and offers future cost reductions as the technology matures. Investors should weigh strategic market access in North America against cost advantages in regions like Chile and Argentina.
 #### Recommendation: 
-Investors should consider North American projects for market access, while Chile and Argentina offer more cost-effective, resource-rich options. Monitoring DLE’s commercialization progress will be key to realizing potential long-term savings and returns.
+Investors should consider North American Ion exchange type DLE projects for market access, while Chile and Argentina offer more cost-effective, resource-rich options. Monitoring DLE’s commercialization progress will be key to realizing potential long-term savings and returns.
