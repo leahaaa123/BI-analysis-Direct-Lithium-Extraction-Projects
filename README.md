@@ -5,7 +5,7 @@ This project aims to assess and compare the efficiency of lithium extraction tec
 1. Regional Investment Challenge:
    Determining the most attractive country or mining project for investment is challenging for investors due to a lack of comprehensive information and difficulties in comparing projects effectively.
 2. DLE Technology Evaluation Challenge:
-   Identifying the most efficient and cost-effective Direct Lithium Extraction (DLE) technology for specific projects and regions is challenging due to the variety of available technologies and regional differences.
+   Identifying the most efficient and cost-effective Direct Lithium Extraction (DLE) technology for specific projects and regions is challenging.
 
 ## Work Flow
 Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Development  →  Step4. Data Analysis 
