@@ -4,7 +4,7 @@ The analysis incorporates both quantitative insights derived from Power BI dashb
 
 ## Business Problem
 1. Regional Investment Challenge:
-   Determining the most attractive country or mining project for investment is challenging for investors due to a lack of comprehensive information and difficulties in comparing projects effectively.
+   Determining the most attractive country or mining project for investment is challenging for investors due to a lack of comprehensive information and difficulties in comparing mining projects.
 2. DLE Technology Evaluation Challenge:
    Identifying the most efficient and cost-effective Direct Lithium Extraction (DLE) technology for specific projects and regions is challenging.
 
