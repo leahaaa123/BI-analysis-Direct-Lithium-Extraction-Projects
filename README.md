@@ -26,7 +26,7 @@ Download SQL file
 ### STEP4. Data Analysis 
 #### 1) Production Efficiency Analysis
 - (Country Comparison) When comparing lithium deposits by region, Argentina possesses favorable conditions both quantitatively and qualitatively, with high lithium resource volumes and concentrations. In contrast, North America has relatively lower resource volumes and concentrations.
-   ![image](https://github.com/user-attachments/assets/649471cf-4952-465a-85a6-55843f9affd3)
+![image01](https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc)
 
 - (DLE method Comparison) The adsorption method shows a trend of increasing recovery rates as lithium concentration rises, while the ion exchange method maintains high recovery rates even in projects with lower lithium concentrations.
    ![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
