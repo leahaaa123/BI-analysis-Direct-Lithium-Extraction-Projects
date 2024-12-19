@@ -32,8 +32,9 @@ Download SQL file
    ![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
 
 - (Project)  North American projects like Clearwater and Boardwalk in Canada, which utilize the ion exchange method, have achieved high lithium recovery rates despite the low lithium concentrations.
-  ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8)
 
+  ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8)
+  
 #### 2) Investment Efficiency Analysis
 This analysis assesses investment efficiency based on capital expenditure intensity per annual production volume and operational expenditure.
 - (DLE method Comparison) The ion exchange method, being at an early stage of commercialization, has a higher average capital expenditure intensity ($68,237/ton) and annual OPEX ($5,502/ton) compared to the adsorption method.
