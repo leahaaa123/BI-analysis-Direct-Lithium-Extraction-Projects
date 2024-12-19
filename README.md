@@ -25,22 +25,22 @@ Download SQL file
 ![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
 ### STEP4. Data Analysis 
 #### 1) Production Efficiency Analysis
-- (Country Comparison) When comparing lithium deposits by region, Argentina possesses favorable conditions both quantitatively and qualitatively, with high lithium resource volumes and concentrations. In contrast, North America has relatively lower resource volumes and concentrations. 
-      ![image](https://github.com/user-attachments/assets/649471cf-4952-465a-85a6-55843f9affd3)
+- (Country Comparison) When comparing lithium deposits by region, Argentina possesses favorable conditions both quantitatively and qualitatively, with high lithium resource volumes and concentrations. In contrast, North America has relatively lower resource volumes and concentrations.
+   ![image](https://github.com/user-attachments/assets/649471cf-4952-465a-85a6-55843f9affd3)
 
 - (DLE method Comparison) The adsorption method shows a trend of increasing recovery rates as lithium concentration rises, while the ion exchange method maintains high recovery rates even in projects with lower lithium concentrations.
-     ![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
+   ![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
 
 - (Project Comparison)  North American projects like Clearwater and Boardwalk in Canada, which utilize the ion exchange method, have achieved high lithium recovery rates despite the low lithium concentrations.
-     ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8)
+  ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8)
 
 #### 2) Investment Efficiency Analysis
 This analysis assesses investment efficiency based on capital expenditure intensity per annual production volume and operational expenditure.
 - (DLE method Comparison) The ion exchange method, being at an early stage of commercialization, has a higher average capital expenditure intensity ($68,237/ton) and annual OPEX ($5,502/ton) compared to the adsorption method.
-  ![image](https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40)
+ ![image](https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40)
 
 - (Country Comparison) Canada shows the highest average capital expenditure intensity ($77,081/ton), indicating substantial initial investment requirements, while the United States has a comparatively higher annual OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects exhibit low capital expenditure intensity and operational costs, offering a competitive edge in terms of cost efficiency.
-![image](https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1)
+  ![image](https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1)
 
 ## Insights and Recommendation
 
