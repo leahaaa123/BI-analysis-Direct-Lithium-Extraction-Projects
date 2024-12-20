@@ -3,10 +3,15 @@ This project aims to provide detailed information on Direct Lithium Extraction (
 The analysis incorporates both quantitative insights derived from Power BI dashboards and qualitative research, and the challenges and benefits associated with DLE mining projects
 
 ## Business Problem
-1. Regional Investment Challenge:
-   Determining the most attractive country or mining project for investment is challenging for investors due to a lack of comprehensive information and difficulties in comparing mining projects.
-2. DLE Technology Evaluation Challenge:
-   Identifying the most efficient and cost-effective Direct Lithium Extraction (DLE) technology for specific projects and regions is challenging.
+
+1) Lithium demand vs. supply Gap
+The global shift toward renewable energy and electric vehicles has triggered an unprecedented surge in lithium demand. However, traditional extraction methods face critical challenges, including environmental concerns, and geographic constraints. For example, evaporation ponds, primarily used in South America, and hard-rock mining in Australia dominate production but are limited in scalability and resource accessibility.
+
+3) Inefficiencies in extraction technologies
+Current lithium extraction methods, such as evaporation ponds and hard-rock , are resource-intensive, time-consuming, and economically inefficient in regions with low lithium concentrations. This highlights the need for innovative approaches like Direct Lithium Extraction (DLE).
+
+4) Geographic disparities in resource quality
+Regions like South America, particularly Argentina and Chile, boast high-quality lithium resources with favorable extraction conditions. In contrast, North America’s resources are less concentrated, posing additional challenges for efficient production.
 
 ## Work Flow
 Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Development  →  Step4. Data Analysis 
