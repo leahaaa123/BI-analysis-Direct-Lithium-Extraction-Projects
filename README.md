@@ -5,12 +5,15 @@ The analysis incorporates both quantitative insights derived from Power BI dashb
 ## Business Problem
 
 1) Lithium demand vs. supply Gap
+
 The global shift toward renewable energy and electric vehicles has triggered an unprecedented surge in lithium demand. However, traditional extraction methods face critical challenges, including environmental concerns, and geographic constraints. For example, evaporation ponds, primarily used in South America, and hard-rock mining in Australia dominate production but are limited in scalability and resource accessibility.
 
-3) Inefficiencies in extraction technologies
+2) Inefficiencies in extraction technologies
+
 Current lithium extraction methods, such as evaporation ponds and hard-rock , are resource-intensive, time-consuming, and economically inefficient in regions with low lithium concentrations. This highlights the need for innovative approaches like Direct Lithium Extraction (DLE).
 
-4) Geographic disparities in resource quality
+3) Geographic disparities in resource quality
+
 Regions like South America, particularly Argentina and Chile, boast high-quality lithium resources with favorable extraction conditions. In contrast, North America’s resources are less concentrated, posing additional challenges for efficient production.
 
 ## Work Flow
