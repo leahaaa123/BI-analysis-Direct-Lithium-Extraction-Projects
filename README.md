@@ -34,7 +34,7 @@ Created a database in SSMS and conducted the ETL process using SSIS, leveraging 
 #### [STEP3] Dashboard Development 
 [Dashboard Download](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
 
-<img src="https://github.com/user-attachments/assets/3707578d-ebb3-4adf-9f5e-3ceef73bd4e2" width="500"/>    <img src="https://github.com/user-attachments/assets/82bed174-1f8f-45f5-b9d4-369056b25f85" alt="Dashboard Screenshot" width="500"/>
+<img src="https://github.com/user-attachments/assets/409c324d-af88-45d7-9693-ec83b7801709" width="500"/>    <img src="https://github.com/user-attachments/assets/82bed174-1f8f-45f5-b9d4-369056b25f85" alt="Dashboard Screenshot" width="500"/>
 
 
 #### [STEP4] Data Analysis 
