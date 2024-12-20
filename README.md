@@ -31,7 +31,7 @@ Download SQL file
 
 
 #### [STEP3] Dashboard Development 
-[Download file](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
+[Dashboard Download](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
 
 <img src="https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2" alt="Dashboard Screenshot" width="600"/>
 
