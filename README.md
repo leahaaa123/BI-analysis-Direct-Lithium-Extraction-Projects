@@ -24,34 +24,44 @@ Download SQL file
 
 ![Screenshot1 (1)](https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2)
 ### STEP4. Data Analysis 
-#### 1) Production Efficiency Analysis
-- (Country) When comparing lithium deposits by region, Argentina possesses favorable conditions both quantitatively and qualitatively, with high lithium resource volumes and concentrations. In contrast, North America has relatively lower resource volumes and concentrations.
-![image01](https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc)
+#### 1) Regional Comparison of Lithium Deposits
+Argentina demonstrates a significant advantage in lithium resources, both in terms of quantity and quality, with higher lithium resource volumes and concentrations compared to North America. In contrast, North America exhibits lower lithium resource volumes and concentrations, presenting inherent challenges for extraction efficiency.
+               ![image01](https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc)
 
-- (DLE method) The adsorption method shows a trend of increasing recovery rates as lithium concentration rises, while the ion exchange method maintains high recovery rates even in projects with lower lithium concentrations.
+
+#### 2) Production Efficiency Using DLE Methods
+##### Lithium Recovery Trends by Method
+The adsorption method displays improved lithium recovery rates as lithium concentration increases, while the ion exchange method delivers consistently high recovery rates, even in environments with lower lithium concentrations.
    ![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
 
-- (Project)  North American projects like Clearwater and Boardwalk in Canada, which utilize the ion exchange method, have achieved high lithium recovery rates despite the low lithium concentrations.
+##### Performance in North America
+Despite North America’s relatively lower lithium concentrations, projects such as Clearwater and Boardwalk in Canada, which employ the ion exchange method, have achieved high recovery rates, showcasing the effectiveness of DLE in enhancing production efficiency.
+ ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8) 
 
-  ![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8)
-  
-#### 2) Investment Efficiency Analysis
-This analysis assesses investment efficiency based on capital expenditure intensity per annual production volume and operational expenditure.
-- (DLE method Comparison) The ion exchange method, being at an early stage of commercialization, has a higher average capital expenditure intensity ($68,237/ton) and annual OPEX ($5,502/ton) compared to the adsorption method.
+#### 3) Investment Efficiency of DLE Methods
+##### DLE Method Comparison
+Among DLE methods, the ion exchange technique, being in the early stages of commercialization, exhibits higher capital expenditure (CAPEX) intensity, averaging $68,237/ton, and operational expenditure (OPEX) at $5,502/ton, compared to the more mature adsorption method.
  ![image](https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40)
 
-- (Country Comparison) Canada shows the highest average capital expenditure intensity ($77,081/ton), indicating substantial initial investment requirements, while the United States has a comparatively higher annual OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects exhibit low capital expenditure intensity and operational costs, offering a competitive edge in terms of cost efficiency.
+##### Regional Investment Landscape
+North American projects highlight significant investment challenges: Canada reports the highest CAPEX intensity at $77,081/ton, requiring substantial upfront investment, while the United States faces comparatively higher OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects demonstrate low CAPEX and OPEX, presenting a more cost-efficient model that strengthens their competitive position.
   ![image](https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1)
 
 ## Insights and Recommendation
 
 #### key investment insights:
-1) Efficiency and Versatility: 
-DLE methods, particularly ion exchange, show high recovery rates even at lower lithium concentrations, making them viable in diverse regions, including North America. Argentina has the most favorable lithium resources, while Canada’s low-concentration projects perform well due to DLE.
+1) Efficiency and Versatility
+DLE methods, particularly ion exchange, demonstrate exceptional recovery rates even in regions with lower lithium concentrations, such as North America. This makes DLE a transformative technology for expanding viable lithium extraction across diverse geographies. Argentina emerges as the most resource-rich region, while Canadian projects effectively leverage ion exchange to overcome lower resource concentrations
+2) Economic Feasibility 
+While the ion exchange method shows promise, it currently involves higher CAPEX and OPEX compared to adsorption. Canada has the highest CAPEX requirements, demanding substantial upfront investment, while the U.S. experiences elevated OPEX. Conversely, Chile offers the most cost-efficient projects, characterized by low CAPEX and OPEX, making it a compelling option for scalability and long-term profitability.
 
-3) Cost Analysis: 
-Ion exchange, while promising, currently involves higher CAPEX and OPEX than adsorption. Canada has the highest CAPEX needs, while the U.S. faces higher OPEX. In contrast, Chile’s low-cost projects present strong cost-efficiency and scalability for investors.
-4) Investment Potential: 
-Despite higher costs, DLE expands extraction options beyond high-lithium regions and offers future cost reductions as the technology matures. Investors should weigh strategic market access in North America against cost advantages in regions like Chile and Argentina.
+
 #### Recommendation: 
-Investors should consider North American Ion exchange type DLE projects for market access, while Chile and Argentina offer more cost-effective, resource-rich options. Monitoring DLE’s commercialization progress will be key to realizing potential long-term savings and returns.
+1) North American Opportunities
+Invest in North American ion exchange-based DLE projects to capitalize on strategic market access and the ability to process lower-concentration resources. These projects position investors to benefit from growing lithium demand and the eventual cost optimization of DLE technology.
+
+2) Cost-Efficient Alternatives
+Consider prioritizing investments in Chile and Argentina for their abundant, high-quality resources and significantly lower extraction costs. These regions offer an immediate path to competitive returns and scalability.
+
+3) Technology Monitoring
+Maintain close monitoring of DLE commercialization progress. As technological advancements reduce CAPEX and OPEX, ion exchange projects may become increasingly competitive, offering greater returns over the long term.
