@@ -29,29 +29,29 @@ Download SQL file
 #### 1) Regional Comparison of Lithium Deposits
 Argentina demonstrates a significant advantage in lithium resources, both in terms of quantity and quality, with higher lithium resource volumes and concentrations compared to North America. In contrast, North America exhibits lower lithium resource volumes and concentrations, presenting inherent challenges for extraction efficiency.
 
-<img src="https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc" alt="Dashboard Screenshot" width="600"/>
+<img src="https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc" alt="Dashboard Screenshot2" width="600"/>
 
 #### 2) Production Efficiency Using DLE Methods
 ##### Lithium Recovery Trends by Method
 The adsorption method displays improved lithium recovery rates as lithium concentration increases, while the ion exchange method delivers consistently high recovery rates, even in environments with lower lithium concentrations.
 
-![image](https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710)
+<img src="https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710" alt="Dashboard Screenshot3" width="600"/>
 
 ##### Performance in North America
 Despite North America’s relatively lower lithium concentrations, projects such as Clearwater and Boardwalk in Canada, which employ the ion exchange method, have achieved high recovery rates, showcasing the effectiveness of DLE in enhancing production efficiency.
 
-![image](https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8) 
+<img src="https://github.com/user-attachments/assets/68314b3d-b17d-42dc-a1d6-94758684e9d8" alt="Dashboard Screenshot4" width="600"/>
 
 #### 3) Investment Efficiency of DLE Methods
 ##### DLE Method Comparison
 Among DLE methods, the ion exchange technique, being in the early stages of commercialization, exhibits higher capital expenditure (CAPEX) intensity, averaging $68,237/ton, and operational expenditure (OPEX) at $5,502/ton, compared to the more mature adsorption method.
 
-![image](https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40)
+<img src="https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40" alt="Dashboard Screensho5t" width="600"/>
 
 ##### Regional Investment Landscape
 North American projects highlight significant investment challenges: Canada reports the highest CAPEX intensity at $77,081/ton, requiring substantial upfront investment, while the United States faces comparatively higher OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects demonstrate low CAPEX and OPEX, presenting a more cost-efficient model that strengthens their competitive position.
 
-![image](https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1)
+<img src="https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1" alt="Dashboard Screenshot6" width="600"/>
 
 ## Insights and Recommendation
 
