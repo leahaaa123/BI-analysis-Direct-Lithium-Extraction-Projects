@@ -64,7 +64,7 @@ Among DLE methods, the ion exchange technique, being in the early stages of comm
 ##### Regional Investment Landscape
 North American projects highlight significant investment challenges: Canada reports the highest CAPEX intensity at $77,081/ton, requiring substantial upfront investment, while the United States faces comparatively higher OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects demonstrate low CAPEX and OPEX, presenting a more cost-efficient model that strengthens their competitive position.
 
-<img src="https://github.com/user-attachments/assets/ac1dcfe9-d884-48bc-b532-336aca7f30d1" alt="Dashboard Screenshot6" width="600"/>
+<img src="https://github.com/user-attachments/assets/485aae16-93f7-4588-890c-bbedfd2ffe69" alt="Dashboard Screenshot6" width="600"/>
 
 ## Insights and Recommendation
 
