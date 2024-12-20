@@ -64,17 +64,22 @@ North American projects highlight significant investment challenges: Canada repo
 
 #### key investment insights:
 1) Efficiency and Versatility
+   
 DLE methods, particularly ion exchange, demonstrate exceptional recovery rates even in regions with lower lithium concentrations, such as North America. This makes DLE a transformative technology for expanding viable lithium extraction across diverse geographies. Argentina emerges as the most resource-rich region, while Canadian projects effectively leverage ion exchange to overcome lower resource concentrations
 2) Economic Feasibility 
+
 While the ion exchange method shows promise, it currently involves higher CAPEX and OPEX compared to adsorption. Canada has the highest CAPEX requirements, demanding substantial upfront investment, while the U.S. experiences elevated OPEX. Conversely, Chile offers the most cost-efficient projects, characterized by low CAPEX and OPEX, making it a compelling option for scalability and long-term profitability.
 
 
 #### Recommendation: 
 1) North American Opportunities
+   
 Invest in North American ion exchange-based DLE projects to capitalize on strategic market access and the ability to process lower-concentration resources. These projects position investors to benefit from growing lithium demand and the eventual cost optimization of DLE technology.
 
 2) Cost-Efficient Alternatives
+
 Consider prioritizing investments in Chile and Argentina for their abundant, high-quality resources and significantly lower extraction costs. These regions offer an immediate path to competitive returns and scalability.
 
 3) Technology Monitoring
+
 Maintain close monitoring of DLE commercialization progress. As technological advancements reduce CAPEX and OPEX, ion exchange projects may become increasingly competitive, offering greater returns over the long term.
