@@ -52,6 +52,7 @@ The adsorption method displays improved lithium recovery rates as lithium concen
 ##### Performance in North America
 Despite North America’s relatively lower lithium concentrations, projects such as Clearwater and Boardwalk in Canada, which employ the ion exchange method, have achieved high recovery rates, showcasing the effectiveness of DLE in enhancing production efficiency.
 
+<img src="https://github.com/user-attachments/assets/ce40bb57-0af6-45b0-bb79-ba2505fc026d" width="600"/>
 
 #### 3) Investment Efficiency of DLE Methods
 ##### DLE Method Comparison
