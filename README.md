@@ -26,8 +26,9 @@ Regions like South America, particularly Argentina and Chile, boast high-quality
 #### [STEP1] Data Modeling
 
 #### [STEP2] Data Integration
-Created database in SSMS then conducted ETL process with VIsual studio 
-Download SQL file
+
+Created a database in SSMS and conducted the ETL process using SSIS, leveraging its data flow tasks for extraction, transformation, and loading operations
+[File Download]
 
 
 #### [STEP3] Dashboard Development 
