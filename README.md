@@ -59,7 +59,7 @@ Despite North America’s relatively lower lithium concentrations, projects such
 ##### DLE Method Comparison
 Among DLE methods, the ion exchange technique, being in the early stages of commercialization, exhibits higher capital expenditure (CAPEX) intensity, averaging $68,237/ton, and operational expenditure (OPEX) at $5,502/ton, compared to the more mature adsorption method.
 
-<img src="https://github.com/user-attachments/assets/f81c6b80-dbdd-4d31-9d36-2afa11ffca40" alt="Dashboard Screensho5t" width="600"/>
+<img src="https://github.com/user-attachments/assets/54c29082-c7e1-41bb-ac9c-b7b29b44698e" width="600"/>
 
 ##### Regional Investment Landscape
 North American projects highlight significant investment challenges: Canada reports the highest CAPEX intensity at $77,081/ton, requiring substantial upfront investment, while the United States faces comparatively higher OPEX at $5,469/ton for ongoing operations. Conversely, Chilean projects demonstrate low CAPEX and OPEX, presenting a more cost-efficient model that strengthens their competitive position.
