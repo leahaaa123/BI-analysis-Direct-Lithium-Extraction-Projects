@@ -1,6 +1,8 @@
 ## Project Purpose
-This project aims to provide detailed information on Direct Lithium Extraction (DLE) technologies and evaluate the investment potential across key lithium-producing regions. The goal is to assist investors in understanding the productivity of DLE technology for lithium extraction mining projects across various regions. 
-The analysis incorporates both quantitative insights derived from Power BI dashboards and qualitative research, and the challenges and benefits associated with DLE mining projects
+This project aims to deliver comprehensive insights into Direct Lithium Extraction (DLE) technology through a combination of qualitative and quantitative analysis. Focused on data visualization using Power BI, the project explores key aspects of lithium extraction, production efficiency, and regional investment landscapes, with the following goals:
+- Enhance Understanding of DLE
+- Analyze Regional and Methodological Differences
+- Support Data-Driven Decision-Making
 
 ## Business Problem
 
