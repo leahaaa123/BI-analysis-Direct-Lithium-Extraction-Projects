@@ -29,7 +29,7 @@ Download SQL file
 #### 1) Regional Comparison of Lithium Deposits
 Argentina demonstrates a significant advantage in lithium resources, both in terms of quantity and quality, with higher lithium resource volumes and concentrations compared to North America. In contrast, North America exhibits lower lithium resource volumes and concentrations, presenting inherent challenges for extraction efficiency.
 
-![image01](https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc)
+<img src="https://github.com/user-attachments/assets/718963c8-85b9-41d3-b802-5197d49562fc" alt="Dashboard Screenshot" width="600"/>
 
 #### 2) Production Efficiency Using DLE Methods
 ##### Lithium Recovery Trends by Method
