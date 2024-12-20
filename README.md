@@ -4,7 +4,7 @@ The analysis incorporates both quantitative insights derived from Power BI dashb
 
 ## Business Problem
 
-1) Lithium demand vs. supply Gap
+1) Lithium demand vs. supply gap
 
 The global shift toward renewable energy and electric vehicles has triggered an unprecedented surge in lithium demand. However, traditional extraction methods face critical challenges, including environmental concerns, and geographic constraints. For example, evaporation ponds, primarily used in South America, and hard-rock mining in Australia dominate production but are limited in scalability and resource accessibility.
 
