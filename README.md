@@ -47,7 +47,7 @@ Argentina demonstrates a significant advantage in lithium resources, both in ter
 ##### Lithium Recovery Trends by Method
 The adsorption method displays improved lithium recovery rates as lithium concentration increases, while the ion exchange method delivers consistently high recovery rates, even in environments with lower lithium concentrations.
 
-<img src="https://github.com/user-attachments/assets/3fa3d19a-524e-4ce0-b4a0-e97375341710" alt="Dashboard Screenshot3" width="600"/>
+<img src="https://github.com/user-attachments/assets/d5673273-f170-4bb0-8db5-43b63d195df2" width="600"/>
 
 ##### Performance in North America
 Despite North America’s relatively lower lithium concentrations, projects such as Clearwater and Boardwalk in Canada, which employ the ion exchange method, have achieved high recovery rates, showcasing the effectiveness of DLE in enhancing production efficiency.
