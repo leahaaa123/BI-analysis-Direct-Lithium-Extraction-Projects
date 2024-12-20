@@ -8,6 +8,7 @@ The analysis incorporates both quantitative insights derived from Power BI dashb
 
 The global shift toward renewable energy and electric vehicles has triggered an unprecedented surge in lithium demand. However, traditional extraction methods face critical challenges, including environmental concerns, and geographic constraints. For example, evaporation ponds, primarily used in South America, and hard-rock mining in Australia dominate production but are limited in scalability and resource accessibility.
 
+
 2) Inefficiencies in extraction technologies
 
 Current lithium extraction methods, such as evaporation ponds and hard-rock mining, are time-consuming, and economically inefficient in regions with low lithium concentrations. This highlights the need for innovative approaches like Direct Lithium Extraction (DLE).
