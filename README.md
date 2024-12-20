@@ -10,7 +10,7 @@ The global shift toward renewable energy and electric vehicles has triggered an 
 
 2) Inefficiencies in extraction technologies
 
-Current lithium extraction methods, such as evaporation ponds and hard-rock , are resource-intensive, time-consuming, and economically inefficient in regions with low lithium concentrations. This highlights the need for innovative approaches like Direct Lithium Extraction (DLE).
+Current lithium extraction methods, such as evaporation ponds and hard-rock mining, are time-consuming, and economically inefficient in regions with low lithium concentrations. This highlights the need for innovative approaches like Direct Lithium Extraction (DLE).
 
 3) Geographic disparities in resource quality
 
