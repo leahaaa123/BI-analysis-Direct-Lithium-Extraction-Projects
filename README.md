@@ -20,22 +20,22 @@ Current lithium extraction methods, such as evaporation ponds and hard-rock mini
 Regions like South America, particularly Argentina and Chile, boast high-quality lithium resources with favorable extraction conditions. In contrast, North America’s resources are less concentrated, posing additional challenges for efficient production.
 
 ## Work Flow
-Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Development  →  Step4. Data Analysis 
+### Step1. Data Modeling  →  Step2. Data Integration  →  Step3. Dashboard Development  →  Step4. Data Analysis 
 
 
-### STEP1. Data Modeling
+#### STEP1. Data Modeling
 
-### STEP2. Data Integration
+#### STEP2. Data Integration
 Created database in SSMS then conducted ETL process with VIsual studio 
 Download SQL file
 
 
-### STEP3. Dashboard Development 
+#### STEP3. Dashboard Development 
 [Download file](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
 
 <img src="https://github.com/user-attachments/assets/bf73045f-20d1-4ba2-bd7b-791cbddcf9f2" alt="Dashboard Screenshot" width="600"/>
 
-### STEP4. Data Analysis 
+#### STEP4. Data Analysis 
 
 #### 1) Regional Comparison of Lithium Deposits
 Argentina demonstrates a significant advantage in lithium resources, both in terms of quantity and quality, with higher lithium resource volumes and concentrations compared to North America. In contrast, North America exhibits lower lithium resource volumes and concentrations, presenting inherent challenges for extraction efficiency.
