@@ -30,10 +30,15 @@ A visual representation of the database schema is created, mapping relationships
                          
 
 #### [STEP2] Data Integration
+In this step, data from multiple sources is combined, cleaned, and transformed to create a unified dataset that aligns with the project's goals.
 
-Created a database in SSMS and conducted the ETL process using SSIS, leveraging its data flow tasks for extraction, transformation, and loading operations
+ (1) Database Setup in SSMS: A comprehensive database was created in SQL Server Management Studio (SSMS), ensuring the schema design supports efficient data integration.
+ (2) ETL Process with SSIS: The ETL (Extract, Transform, Load) process was conducted using SSIS, leveraging data flow tasks for seamless extraction, transformation, and loading operations.
+ (3) Data Cleaning and Transformation: Data from Company, Project, Technology, and Efficiency Metrics Database was cleansed, and structured for consistency and accuracy.
+ (4) Data Linking and Relationships: Foreign key relationships were established between tables, connecting key data points such as projects, companies, and technologies.
+ (5) Data Analysis Integration: The integrated dataset was prepared for effective data analysis in Power BI, ensuring all key metrics related to lithium extraction and production are easily accessible for insights and visualization.
+
 [File Download]
-
 
 #### [STEP3] Dashboard Development 
 [Dashboard Download](https://github.com/leahaaa123/Portfolio-Public/blob/main/DLE%20project%20analysis%20dashboard.pbix)
