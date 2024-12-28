@@ -24,6 +24,9 @@ Regions like South America, particularly Argentina and Chile, boast high-quality
 
 
 #### [STEP1] Data Modeling
+A visual representation of the database schema is created, mapping relationships between tables such as Company Database, Project Database, Technology Database, and Efficiency Metrics Database.
+![ko drawio](https://github.com/user-attachments/assets/b3faf9a3-d1a5-4ada-b809-6c88b1f663dc)
+                                 <Database Schema>
 
 #### [STEP2] Data Integration
 
